@@ -1,7 +1,7 @@
 # Analyse de Données de Vente au Détail
 
 ## Contexte 
-Cet exemple de projet d'analyse de données porte sur des données de vente au détail provenant d'une chaîne de café fictive. Les données sources sont issues du fichier "April Sales.zip" téléchargé. Source : IBM.
+Cet exemple de projet d'analyse de données porte sur des données de vente au détail provenant d'une chaîne de café fictive. Source : IBM.
 
 ## Ensemble de Données
 L'ensemble de données se compose de neuf fichiers CSV, regroupés dans "April Sales.zip", et comprend des données sur les ventes, l'inventaire, les objectifs de vente, les clients, les produits, les points de vente, le personnel, et bien plus encore.
